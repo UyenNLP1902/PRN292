@@ -1,0 +1,15 @@
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\schoolDatabaseGenerator.exe
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\schoolDatabaseGenerator.deps.json
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\schoolDatabaseGenerator.runtimeconfig.json
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\schoolDatabaseGenerator.runtimeconfig.dev.json
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\schoolDatabaseGenerator.dll
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\schoolDatabaseGenerator.pdb
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.csprojAssemblyReference.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.AssemblyInfoInputs.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.AssemblyInfo.cs
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.csproj.CoreCompileInputs.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.csproj.CopyComplete
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.dll
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.pdb
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Release\netcoreapp3.1\schoolDatabaseGenerator.genruntimeconfig.cache

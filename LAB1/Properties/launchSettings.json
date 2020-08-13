@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "schoolDatabaseGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "fpt -s 500"
+    }
+  }
+}

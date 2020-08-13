@@ -1,0 +1,62 @@
+﻿{
+  "NameConfig": {
+    "last_name_set": [
+      "Nguyen",
+      "Ly",
+      "Le",
+      "Tran",
+      "Ho",
+      "Vo"
+    ],
+    "middle_name_set": [
+      "Van",
+      "Thi",
+      "Hoang Bao",
+      "Anh",
+      "Minh",
+      "Thuy"
+    ],
+    "fem_first_name_set": [
+      "Trang",
+      "Minh",
+      "Anh",
+      "Khanh",
+      "Uyen",
+      "Phuong",
+      "Van"
+    ],
+    "male_first_name_set": [
+      "Dat",
+      "Long",
+      "Thanh",
+      "Minh",
+      "Anh",
+      "Hoa",
+      "Khanh",
+      "Phuong"
+    ]
+  },
+
+  "LevelNameConfig": {
+    "level_name_set": [
+      "10",
+      "11",
+      "12"
+    ]
+  },
+
+  "FieldNameConfig": {
+    "field_name_set": [
+      "Maths",
+      "Physics",
+      "Chemistry",
+      "Literature",
+      "Language",
+      "History",
+      "Geography",
+      "Art",
+      "Music",
+      "Biology"
+    ]
+  }
+}

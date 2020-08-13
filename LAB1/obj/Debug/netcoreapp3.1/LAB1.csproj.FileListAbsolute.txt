@@ -1,0 +1,14 @@
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.exe
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.deps.json
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.json
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.dev.json
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.dll
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.pdb
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.csprojAssemblyReference.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfoInputs.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfo.cs
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CoreCompileInputs.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.dll
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.pdb
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.genruntimeconfig.cache
+D:\FPT\2020\Summer2020\PRN225\Github\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CopyComplete
